@@ -1,0 +1,32 @@
+{
+  "name": "substr-occurrence",
+  "version": "0.1.0",
+  "description": "Gets the number of occurrences of a string or character in a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codetheweb/substr-occurrence.git"
+  },
+  "keywords": [
+    "substr",
+    "substring",
+    "string",
+    "character",
+    "number",
+    "occurrence",
+    "count"
+  ],
+  "author": "“Max <codetheweb@icloud.com> (https://maxisom.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codetheweb/substr-occurrence/issues"
+  },
+  "homepage": "https://github.com/codetheweb/substr-occurrence#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.0"
+  }
+}
